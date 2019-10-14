@@ -14,6 +14,7 @@
 		ACAA9D2A2353248A00EA8BBA /* Simulasi.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = ACAA9D282353248A00EA8BBA /* Simulasi.xcdatamodeld */; };
 		ACAA9D2C2353248C00EA8BBA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ACAA9D2B2353248C00EA8BBA /* Assets.xcassets */; };
 		ACAA9D2F2353248C00EA8BBA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACAA9D2D2353248C00EA8BBA /* LaunchScreen.storyboard */; };
+		ACAA9D372353288900EA8BBA /* Laskar Pelangi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = ACAA9D362353288900EA8BBA /* Laskar Pelangi.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		ACAA9D2B2353248C00EA8BBA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ACAA9D2E2353248C00EA8BBA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ACAA9D302353248C00EA8BBA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ACAA9D362353288900EA8BBA /* Laskar Pelangi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Laskar Pelangi.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,7 +45,6 @@
 			isa = PBXGroup;
 			children = (
 				ACAA9D1E2353248A00EA8BBA /* Simulasi */,
-				ACAA9D1D2353248A00EA8BBA /* Products */,
 			);
 			sourceTree = "<group>";
 		};
@@ -53,6 +54,7 @@
 				ACAA9D1C2353248A00EA8BBA /* Simulasi.app */,
 			);
 			name = Products;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		ACAA9D1E2353248A00EA8BBA /* Simulasi */ = {
@@ -65,7 +67,9 @@
 				ACAA9D2B2353248C00EA8BBA /* Assets.xcassets */,
 				ACAA9D2D2353248C00EA8BBA /* LaunchScreen.storyboard */,
 				ACAA9D302353248C00EA8BBA /* Info.plist */,
+				ACAA9D362353288900EA8BBA /* Laskar Pelangi.mp3 */,
 				ACAA9D282353248A00EA8BBA /* Simulasi.xcdatamodeld */,
+				ACAA9D1D2353248A00EA8BBA /* Products */,
 			);
 			path = Simulasi;
 			sourceTree = "<group>";
@@ -130,6 +134,7 @@
 			files = (
 				ACAA9D2F2353248C00EA8BBA /* LaunchScreen.storyboard in Resources */,
 				ACAA9D2C2353248C00EA8BBA /* Assets.xcassets in Resources */,
+				ACAA9D372353288900EA8BBA /* Laskar Pelangi.mp3 in Resources */,
 				ACAA9D272353248A00EA8BBA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
